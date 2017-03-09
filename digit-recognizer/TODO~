@@ -1,0 +1,3 @@
+- split data to sets / balanced sets
+- use svm / e1071 / kernlab / ksvm
+- introduce own kernel

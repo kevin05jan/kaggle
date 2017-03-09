@@ -1,0 +1,9 @@
+- write vector / matrix / png / overview
+- split data to sets / balanced sets
+- use svm / e1071 / kernlab / ksvm
+- introduce own kernel
+
+
+- training w/ 17181 rows takes too much time
+
+- add extra ram
